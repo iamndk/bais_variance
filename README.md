@@ -96,6 +96,6 @@ python main.py
 
 ## 🙌 Author
 
-Your Name
+Nikhil Khandalkar
 
 ---
